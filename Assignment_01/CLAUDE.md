@@ -27,77 +27,77 @@ For Claude when conducting this quiz:
 ### Questions
 
 1. What is the Markdown syntax for creating a level 2 heading?
-   - A) # Heading
-   - B) ## Heading
-   - C) ### Heading
-   - D) <h2>Heading</h2>
+   - A) `# Heading`
+   - B) `## Heading`
+   - C) `### Heading`
+   - D) `<h2>Heading</h2>`
 
 2. How do you create bold text in Markdown?
-   - A) *text*
-   - B) _text_
-   - C) **text** or __text__
-   - D) <b>text</b>
+   - A) `*text*`
+   - B) `_text_`
+   - C) `**text**` or `__text__`
+   - D) `<b>text</b>`
 
 3. Which syntax creates a numbered list in Markdown?
-   - A) * Item 1
-   - B) 1. Item 1
-   - C) - Item 1
-   - D) > Item 1
+   - A) `* Item 1`
+   - B) `1. Item 1`
+   - C) `- Item 1`
+   - D) `> Item 1`
 
 4. How do you create a link in Markdown?
-   - A) [text] url
-   - B) (text)[url]
-   - C) [text](url)
-   - D) {text}(url)
+   - A) `[text] url`
+   - B) `(text)[url]`
+   - C) `[text](url)`
+   - D) `{text}(url)`
 
 5. What is the correct way to create italic text in Markdown?
-   - A) **text**
-   - B) *text* or _text_
-   - C) ~~text~~
-   - D) <i>text</i>
+   - A) `**text**`
+   - B) `*text*` or `_text_`
+   - C) `~~text~~`
+   - D) `<i>text</i>`
 
 6. How do you create a blockquote in Markdown?
-   - A) # text
-   - B) > text
-   - C) "text"
-   - D) ~ text
+   - A) `# text`
+   - B) `> text`
+   - C) `"text"`
+   - D) `~ text`
 
 7. Which syntax creates inline code in Markdown?
-   - A) ```code```
-   - B) `` code ``
-   - C) `code`
-   - D) <code>code</code>
+   - A) ` ```code``` `
+   - B) ` `` code `` `
+   - C) ` `code` `
+   - D) `<code>code</code>`
 
 8. How do you create a horizontal rule in Markdown?
-   - A) --- or ___ or ***
-   - B) <hr>
-   - C) ---
-   - D) ///
+   - A) `---` or `___` or `***`
+   - B) `<hr>`
+   - C) `---`
+   - D) `///`
 
 9. What is the syntax for creating a table in Markdown?
    - A) Using HTML tables only
-   - B) | Column1 | Column2 |
-        |-------|-------|
-        | Cell1 | Cell2 |
-   - C) {Column1|Column2}{Cell1|Cell2}
-   - D) [Column1,Column2][Cell1,Cell2]
+   - B) ```| Column1 | Column2 |
+           | ------- | ------- |
+           | Cell1   | Cell2   |```
+   - C) `{Column1|Column2}{Cell1|Cell2}`
+   - D) `[Column1,Column2][Cell1,Cell2]`
 
 10. How do you create a checkbox list in Markdown?
-    - A) - [ ] unchecked, - [x] checked
-    - B) [ ] unchecked, [x] checked
-    - C) ( ) unchecked, (x) checked
-    - D) - ( ) unchecked, - (x) checked
+    - A) `- [ ] unchecked`, `- [x] checked`
+    - B) `[ ] unchecked`, `[x] checked`
+    - C) `( ) unchecked`, `(x) checked`
+    - D) `- ( ) unchecked`, `- (x) checked`
 
 ### Correct Answers
-1. B) ## Heading
-2. C) **text** or __text__
-3. B) 1. Item 1
-4. C) [text](url)
-5. B) *text* or _text_
-6. B) > text
-7. C) `code`
-8. A) --- or ___ or ***
-9. B) | Column1 | Column2 |
-     |-------|-------|
-     | Cell1 | Cell2 |
-10. A) - [ ] unchecked, - [x] checked
+1. B) `## Heading`
+2. C) `**text**` or `__text__`
+3. B) `1. Item 1`
+4. C) `[text](url)`
+5. B) `*text*` or `_text_`
+6. B) `> text`
+7. C) ` `code` `
+8. A) `---` or `___` or `***`
+9. B) ```| Column1 | Column2 |
+         |-------  |-------  |
+         | Cell1   | Cell2   |```
+10. A) `- [ ] unchecked`, `- [x] checked`
