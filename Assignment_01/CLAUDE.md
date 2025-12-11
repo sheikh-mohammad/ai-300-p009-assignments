@@ -4,9 +4,9 @@
 
 ### Results Table
 
-| Attempt | Date | Score | Percentage | Time Taken |
-|---------|------|------|------------|------------|
-| 1 | 2025-12-11 | 9/10 | 90% | 5 min |
+| Attempt | Date       | Score | Percentage | Time Taken |
+|---------|------------|-------|------------|------------|
+| 1       | 2025-12-11 | 9/10  | 90%        | 5 min      |
 
 ### Quiz Instructions/Rules
 
