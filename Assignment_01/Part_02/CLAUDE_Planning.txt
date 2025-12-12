@@ -19,3 +19,12 @@
 ### Style Rules:
 
 - Write with vivid, sensory-rich language that allows readers to visualize the clothing as if they could touch the fabric and see the colors, using descriptive prose that brings your imaginary garments to life through words alone.
+
+## Key Dresses Locations (File Context)
+
+- /dresses/women/ : All women's dress designs must be documented in this folder.
+- /dresses/men/ : All men's dress designs must be documented in this folder.
+- /dresses/boy/ : All boys' dress designs must be documented in this folder.
+- /dresses/girl/ : All girls' dress designs must be documented in this folder.
+- /dresses/baby/ : All baby dress designs must be documented in this folder.
+- /dresses/baba/ : All baba dress designs must be documented in this folder.
