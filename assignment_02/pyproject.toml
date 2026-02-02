@@ -1,7 +1,7 @@
 [project]
-name = "assignment-02"
+name = "Guessing Game"
 version = "0.1.0"
-description = "Add your description here"
+description = "A simple number guessing game where the player tries to guess a randomly chosen number within multiple rounds. The game gives hints (too high/too low/close), tracks attempts, keeps score across rounds, and lets the player decide when to stop playing."
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = []
