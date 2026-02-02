@@ -22,7 +22,7 @@ while True:
         print("Please enter a number")
         continue
 
-    if guess > 20 and guess < 1:
+    if guess > 20 or guess < 1:
         print("Only enter number between 1 to 20")
     else:
         if (guess + 1) == num or (guess - 1) == num:
