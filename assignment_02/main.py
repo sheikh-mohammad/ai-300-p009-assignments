@@ -51,6 +51,8 @@ while True:
                 print()
                 print("I have picked a number between 1 and 20. Can you guess it?")
                 continue
-            else:
+            elif play_nxt_round == "no":
                 print(f"\nThanks for playing! Your final score: {score}")
                 break
+            else:
+                print("Please enter only yes or no")
