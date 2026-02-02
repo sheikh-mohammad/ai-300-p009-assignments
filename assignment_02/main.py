@@ -25,11 +25,7 @@ while True:
     if guess > 20 or guess < 1:
         print("Only enter number between 1 to 20")
     else:
-        if (guess + 1) == num or (guess - 1) == num:
-            print("➖ Close Enough")
-            attempts += 1
-            continue
-        elif guess > num:
+        if guess > num:
             print("⬇️ Too high!")
             attempts += 1
             continue
