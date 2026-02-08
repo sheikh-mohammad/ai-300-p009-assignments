@@ -1,5 +1,5 @@
 # Exercise 3: Transform and Filter
-# Square only odd numbers: From [1, 2, 3, 4, 5], get [1, 9, 25]
+# 1. Square only odd numbers: From [1, 2, 3, 4, 5], get [1, 9, 25]
 
 numbers : list[int] = [1, 2, 3, 4, 5]
 
