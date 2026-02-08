@@ -1,3 +1,4 @@
+# Exercise 1: Writing Simple Comprehensions
 # 3. Convert to uppercase: ['HELLO', 'WORLD'] from ['hello', 'world']
 
 lower_cased_words : list[str] = ['hello', 'world']

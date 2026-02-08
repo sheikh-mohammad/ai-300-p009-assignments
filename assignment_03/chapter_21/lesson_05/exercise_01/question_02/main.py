@@ -1,3 +1,4 @@
+# Exercise 1: Writing Simple Comprehensions
 # 2. Extract first letters: ['a', 'b', 'c'] from ['apple', 'banana', 'cherry']
 
 fruits : list[str] = ['apple', 'banana', 'cherry']

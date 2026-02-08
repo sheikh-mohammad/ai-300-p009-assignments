@@ -1,3 +1,4 @@
+# Exercise 1: Writing Simple Comprehensions
 # 1. Double each number: [2, 4, 6, 8, 10] from [1, 2, 3, 4, 5]
 
 numbers : list[int] = [1, 2, 3, 4, 5]
